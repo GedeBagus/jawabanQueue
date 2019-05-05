@@ -2,7 +2,7 @@
 	Nama program	: Soal 1
 	Nama			: M. Risqullah Sudanta G. , Gede Bagus Darmagita
 	NPM				: 140810180066 , 140810180068
-	Tanggal buat	: 29 April 2019
+	Tanggal buat	: 4 Mei 2019
     Deskripai       : Perhitungan Uang Amal dengan Queue
 */
 
@@ -112,21 +112,4 @@ int main(){
                 break;
         }
     }while (pilihan != 0);
-
-
-    /*
-    cout << "                   --Posko Donasi--" << endl;
-    cout << "Percayalah dengan membantu, kamu akan dimudahkan kehidupannya :)\n" << endl;
-    cout << "Hari ke-10" <<  endl;
-    cout << "Total uang masuk(Rp): 99000000" << endl;
-    cout << "Proses pembangunan: 99" << "%\n" << endl;
-    
-
-
-    cout << "Terimakasih sudah berdonasi!" << endl;
-    cout << "Total uang masuk(Rp): 100750000" << endl;
-    cout << "Total Uang lebih(Rp): 750000" << endl;
-    cout << "Jumlah Pendonasi: 1 orang" << endl;
-    cout << "Data Pendonasi: bagus,100750000 || -" << endl;
-*/
 }
